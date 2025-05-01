@@ -1,2 +1,2 @@
-# StockInfo
-Fundamental analysis of companies of NEPSE
+# NepalStockInfo
+Site to get information about latest stocks in nepse
